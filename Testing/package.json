@@ -1,0 +1,12 @@
+{
+  "name": "meta-android-developer-course",
+  "version": "1.0.0",
+  "main": "JestTesting.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
