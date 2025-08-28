@@ -1,0 +1,8 @@
+{
+    "Message":"delete",
+    "devices":{"AGT-V1":"1",
+                    "AGT-V2":"2",
+                    "AGT-V3":"3",
+                    "AGT-V4":"4",
+                    "AGT-V5":"5"}
+}
